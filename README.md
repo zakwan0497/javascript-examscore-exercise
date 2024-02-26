@@ -1,2 +1,2 @@
 # javascript-examscore-exercise
-Manipulating data based on exam scores
+Manipulating array based on exam scores
